@@ -1,3 +1,0 @@
-Ejemplo aprendiendo Git
-Modificando archivo en esta de stage
-Segunda modificacion, luego del commit
