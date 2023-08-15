@@ -1,0 +1,2 @@
+Ejemplo aprendiendo Git
+Modificando archivo
